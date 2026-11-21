@@ -13,6 +13,6 @@
 ---
 
 ### 🎹 Sobre Mim
-- 🔭 Desenvolvendo automações inteligentes e soluções práticas.
+- 🔭 Desenvolvendo automações inteligentes e soluções práticas para seu negócio, na logística.
 - 🎼 Apaixonado por piano, partituras e harmonia musical.
-- 📫 Como me encontrar: adicione aqui seu LinkedIn ou e-mail.
+- 📫 Como me encontrar: jorgejansenpcd.
